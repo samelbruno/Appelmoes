@@ -1,0 +1,24 @@
+ul {
+  background-color: yellow;
+}
+
+.plaatsen>p{
+  color: yellow;
+  font-size: 17px;
+}
+li {
+  font-size: 40px;
+  display: inline;
+  margin: 20px;
+}
+body {
+  background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
+  color: yellow ;
+  font-size: 17px;
+}
+p {
+  color: red;
+}
+h1 {
+  color: blue;
+}
