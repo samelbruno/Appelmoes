@@ -3,7 +3,7 @@ ul.menu {
 }
 
 .plaatsen>p{
-  color: yellow;
+  color: black;
   font-size: 17px;
 }
 ul.menu li {
@@ -13,7 +13,7 @@ ul.menu li {
 }
 body {
   background-image: url("https://media.tuicontent.nl/p/header/vakantie-parijs.jpg");
-  color: white ;
+  color: black ;
   font-size: 17px;
 }
 p {
