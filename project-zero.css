@@ -1,4 +1,4 @@
-ul {
+ul.menu {
   background-color: yellow;
 }
 
@@ -6,7 +6,7 @@ ul {
   color: yellow;
   font-size: 17px;
 }
-li {
+ul.menu li {
   font-size: 40px;
   display: inline;
   margin: 20px;
